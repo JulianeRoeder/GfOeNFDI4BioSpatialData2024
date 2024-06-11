@@ -14,7 +14,7 @@ version: 1.0
 
 Feedback questions for workshop "Data Management in Biodiversity and Environmental Science", a pre-meeting workshop of the Biogeography &amp; GfÖ Macroecology meeting 12-14 June 2024 at the Philipps University of Marburg, Germany.
 
-[LiaScript version]()
+[LiaScript version](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/GfOeNFDI4BioSpatialData2024/main/README.md#1)
 
 **We have questions...**
 
