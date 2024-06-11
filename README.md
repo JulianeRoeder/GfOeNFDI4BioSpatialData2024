@@ -25,7 +25,7 @@ First of all - how did you get here? (Multiple answers possible)
 - [[ÖPNV]]                   ÖPNV - public transport. I live in Marburg/in Hesse. I have a Landesticket 8-)
 - [[train]]                  By train. I love the Deutsche Bahn adventure <3
 - [[car]]                    I'm from a place without public transport. I living "ländlich" (rural).
-- [[plane]]                  By plane. Marburg doesn't have an airport?! 
+- [[plane]]                  By plane. Marburg doesn't have an airport, so I had to land on the B3.
 
 
 ## Wordcloud
