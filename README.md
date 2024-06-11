@@ -101,7 +101,7 @@ How did you like the contents of this workshop?
 - [                ] I expected to learn more about taxonomic integration
 - [                ] I expected other topics
 
-> Please note that your ansswers are visible to everyone with access to this classroom.
+> Please note that your answers are visible to everyone with access to this classroom.
 
 What topics did you miss in this workshop? What kind of workshops would you like to attend in the future?
 
