@@ -22,9 +22,9 @@ First of all - how did you get here? (Multiple answers possible)
 
 - [[walk]]                   I walked. Took me some days to reach Marburg, but I enjoyed the [Lahnwanderweg](https://www.lahnwanderweg.de/).
 - [[bike]]                   By bike. All the way.
-- [[ÖPNV]]                   ÖPNV - public transport. I live in Marburg/in Hesse. I have a Landesticket 8-)
-- [[train]]                  By train. I love the Deutsche Bahn adventure <3
-- [[car]]                    By car. I'm from a place without public transport. I living "ländlich" (rural).
+- [[ÖPNV]]                   By ÖPNV - public transport. I live in Marburg/in Hesse. I have a Landesticket 😎
+- [[train]]                  By train. I love the Deutsche Bahn adventure ❤️
+- [[car]]                    By car. I'm from a place without public transport. I am living "ländlich" (rural).
 - [[plane]]                  By plane. Marburg doesn't have an airport, so I had to land on the B3.
 
 
